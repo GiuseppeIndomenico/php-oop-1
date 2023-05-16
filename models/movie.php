@@ -16,16 +16,6 @@ class Movie
         $this->vote = $vote;
         $this->category = $category;
     }
-
-
-    public function getFullTitle()
-    {
-
-        return "<h2>$this->title</h2>";
-    }
-
-
-
 }
 
 
