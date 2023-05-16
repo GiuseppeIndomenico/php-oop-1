@@ -1,20 +1,9 @@
 <?php
 include __DIR__ . '/db.php'
-
     //var_dump($movies)
     ?>
-
-
-
-
-
-
-
-
-
-
-
 <!doctype html>
+
 <html lang="en">
 
 <head>
